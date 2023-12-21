@@ -24,7 +24,4 @@ yum install tree -y
 
 VALIDATE $? "Installing tree"
 
-yum install tree -y
-
-VALIDATE $? "Installing tree"
 
