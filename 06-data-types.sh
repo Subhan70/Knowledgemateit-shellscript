@@ -1,4 +1,5 @@
 #!/bin/bash
+# how to execute ./06-data-types.sh  2 4
 
 NUMBER1=$1
 NUMBER2=$2
